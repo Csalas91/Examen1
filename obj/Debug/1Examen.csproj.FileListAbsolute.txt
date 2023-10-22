@@ -1,0 +1,7 @@
+C:\Users\Cesar Salas\source\repos\1Examen\bin\Debug\1Examen.exe.config
+C:\Users\Cesar Salas\source\repos\1Examen\bin\Debug\1Examen.exe
+C:\Users\Cesar Salas\source\repos\1Examen\bin\Debug\1Examen.pdb
+C:\Users\Cesar Salas\source\repos\1Examen\obj\Debug\1Examen.csproj.AssemblyReference.cache
+C:\Users\Cesar Salas\source\repos\1Examen\obj\Debug\1Examen.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Salas\source\repos\1Examen\obj\Debug\1Examen.exe
+C:\Users\Cesar Salas\source\repos\1Examen\obj\Debug\1Examen.pdb
